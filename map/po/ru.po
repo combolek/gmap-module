@@ -1,0 +1,2324 @@
+# $Id: ru.po 1266 2007-12-27 05:54:25Z siliconfiend $
+#
+# Gallery - a web based photo album viewer and editor
+# Copyright (C) 2000-2007 Bharat Mediratta
+#
+# This program is free software; you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation; either version 2 of the License, or (at
+# your option) any later version.
+#
+# This program is distributed in the hope that it will be useful, but
+# WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program; if not, write to the Free Software
+# Foundation, Inc., 51 Franklin Street - Fifth Floor, Boston, MA  02110-1301, USA.
+# 
+# Russian translation Alexandr Bravo alexanr.bravo@gmail.com
+msgid ""
+msgstr ""
+"Project-Id-Version: Gallery: Google Map Module 0.5.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-04-12 13:45+0300\n"
+"PO-Revision-Date: 2007-04-12 14:15-0600\n"
+"Last-Translator: \n"
+"Language-Team: RUSSIAN <gallery-contrib@sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Route"
+msgstr "Маршрут"
+
+#, fuzzy
+msgid "Album"
+msgstr "Альбом"
+
+msgid "Default"
+msgstr "По Умолчанию"
+
+#, fuzzy
+msgid "No Filters"
+msgstr "Без Фильтров"
+
+msgid "Define..."
+msgstr "Определите..."
+
+#, fuzzy
+msgid "Photo"
+msgstr " Фото"
+
+msgid "Item"
+msgstr ""
+
+#. HINT: North abbreviation
+msgid "N"
+msgstr ""
+
+#. HINT: South abbreviation
+msgid "S"
+msgstr ""
+
+#. HINT: East abbreviation
+msgid "E"
+msgstr ""
+
+#. HINT: West abbreviation
+msgid "W"
+msgstr ""
+
+#, fuzzy
+msgid "No Profiles"
+msgstr "Новый Профиль"
+
+msgid "Bad coordinates, please verify"
+msgstr "Неправильные координаты, проверьте, пожалуйста"
+
+msgid "Bad LookAt parameters, please verify"
+msgstr ""
+
+msgid "Changes saved successfully"
+msgstr "Изменения успешно сохранены"
+
+msgid "GPS coordinates successfully entered and saved"
+msgstr "Координаты GPS успешно введены и сохранены"
+
+msgid "Google Map"
+msgstr "Карта Google"
+
+msgid "Google Map Module"
+msgstr "Модуль Карт Google"
+
+#, fuzzy
+msgid "Show items on a dynamic Google Map"
+msgstr "Показать объект на Карте Google используя API"
+
+msgid "Gallery"
+msgstr "Галерея"
+
+msgid "[Google Map] Allow Coordinate Editing"
+msgstr "[Карта Google] Разрешить Редактирование Координат"
+
+msgid "The ID of the group to show, No group will show the default Map"
+msgstr "ID группы для отображения, иначе будет показана карта по умолчанию"
+
+#, fuzzy
+msgid "View in Google Earth"
+msgstr "Экспорт в Google Earth"
+
+msgid "View Album on a Map"
+msgstr "Показать Альбом на Карте"
+
+msgid "Show a Google Map"
+msgstr "Показать Карту Google"
+
+#, fuzzy
+msgid "GPS coordinates written to file, old file backed up"
+msgstr "Координата GPS записана в файл, старый файл сохранен"
+
+msgid "Populate GPS Data from EXIF Headers"
+msgstr "Заполнить данные GPS из Заголовков EXIF"
+
+#, fuzzy
+msgid ""
+"This task will go through all the gallery items and populate the GPS property for each photo "
+"item from the GPS information in the EXIF header, if present."
+msgstr ""
+"Будет выполнен просмотр всех объектов галереи и проверка их на наличие заголовков EXIF, "
+"затем, если в Заголовке EXIF будет найдены данные GPS, они буду перенесены в базу данных "
+"Модуля Карт Google"
+
+msgid "Inserting GPS coordinates from EXIF header"
+msgstr "Вставка GPS координат из заголовка EXIF"
+
+#, c-format
+msgid "Item %d of %d"
+msgstr "Фото %d из %d"
+
+#, fuzzy
+msgid "EXIF header information imported successfully"
+msgstr "Информация из Заголовков EXIF Импортирована Успешно"
+
+msgid "Write GPS Information onto the EXIF header for the pictures"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"This task will go through all the gallery items and populate the GPS information in the EXIF "
+"headers for each JPEG if those don't already exist."
+msgstr ""
+"Будет выполнен просмотр всех объектов галереи и проверка их на наличие заголовков EXIF, "
+"затем, если в Заголовке EXIF будет найдены данные GPS, они буду перенесены в базу данных "
+"Модуля Карт Google"
+
+#, fuzzy
+msgid "Inserting GPS coordinates into EXIF header"
+msgstr "Вставка GPS координат из заголовка EXIF"
+
+#, fuzzy
+msgid "EXIF header information writen successfully"
+msgstr "Информация из Заголовков EXIF Импортирована Успешно"
+
+msgid "Common Fields"
+msgstr "Общие Поля"
+
+msgid "Album Fields"
+msgstr "Поля Альбома"
+
+msgid "Photo Fields"
+msgstr "Поля Фото"
+
+msgid "Search Google Map Fields"
+msgstr "Искать Поля Карты Google"
+
+msgid "General Settings"
+msgstr "Общие Настройки"
+
+msgid "<u>G</u>eneral Settings"
+msgstr "<u>О</u>бщие Настройки"
+
+msgid "Google Overview Settings"
+msgstr "Настройки Обзорной карты Google"
+
+msgid "GZoom Settings"
+msgstr "Настройки GZoom"
+
+msgid "Theme Settings"
+msgstr "Настройки Темы"
+
+msgid "<u>T</u>heme Settings"
+msgstr "Настройки <u>Т</u>емы"
+
+msgid "Markers Settings"
+msgstr "Настройки Маркеров"
+
+msgid "Legend Management"
+msgstr "Управление Обозначениями"
+
+#, fuzzy
+msgid "<u>L</u>egend Management"
+msgstr "Управление Обозначениями (<u>L</u>)"
+
+msgid "Filter Management"
+msgstr "Управления Фильтром"
+
+#, fuzzy
+msgid "<u>F</u>ilter Management"
+msgstr "Управление Фильтрами (<u>F</u>)"
+
+msgid "Group Management"
+msgstr "Управление Группами"
+
+msgid "Routes Management"
+msgstr "Управление Маршрутами"
+
+msgid "<u>R</u>outes Management"
+msgstr "Управление <u>М</u>аршрутами"
+
+msgid "Map Module Settings"
+msgstr "Настройки Модуля Карты"
+
+msgid "Show Google Map"
+msgstr "Показать Карту Google"
+
+msgid "Settings have been saved!"
+msgstr "Настройки были сохранены!"
+
+msgid "There was a problem processing your request."
+msgstr "Возникла проблема при обработке вашего запроса."
+
+msgid "Filter successfully saved"
+msgstr "Фильтр Успешно сохранен"
+
+msgid "Filter successfully deleted"
+msgstr "Фильтр Успешно удален"
+
+msgid "Filters Management"
+msgstr "Управление Фильтрами"
+
+#, fuzzy
+msgid "This section allows you to manage Filters"
+msgstr "Этот раздел позволяет управлять Фильтрами"
+
+msgid "Filter <u>N</u>ame"
+msgstr "<u>И</u>мя Фильтра"
+
+msgid "Please enter a filter name"
+msgstr "Пожалуйста введите имя фильтра"
+
+msgid "Base <u>Z</u>oom"
+msgstr "Базовый <u>М</u>асштаб"
+
+msgid "Please enter a zoom value between 0 and 19"
+msgstr "Пожалуйста введите значение масштаба от 0 до 19"
+
+msgid "Base Center"
+msgstr "Базовый Центр карты"
+
+msgid "Get via a Map"
+msgstr "Взять с Карты"
+
+msgid "Save Filter"
+msgstr "Сохранить Фильтр"
+
+#. HINT: Discard changes
+msgid "Cancel"
+msgstr "Отменить"
+
+msgid "Filter Block Position"
+msgstr "Позиция Блока Фильтра"
+
+#. HINT: Don't display
+msgid "Hide"
+msgstr "Спрятать"
+
+#. HINT: Opposite of right
+msgid "Left"
+msgstr "Слева"
+
+#. HINT: Opposite of left
+msgid "Right"
+msgstr "Справа"
+
+#. HINT: Opposite of bottom
+msgid "Top"
+msgstr "Наверху"
+
+#. HINT: Opposite of top
+msgid "Bottom"
+msgstr "Внизу"
+
+msgid "Manual Filter List"
+msgstr "Ручной Список Фильтров"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Edit"
+msgstr "Редактировать"
+
+#, fuzzy
+msgid "There are no filters defined, click add to create one"
+msgstr "Не определено ни одного фильтра, кликните Добавить чтобы создать"
+
+#. HINT: Create new
+msgid "Add"
+msgstr "Добавить"
+
+msgid "Create <u>A</u>lbum Filters"
+msgstr "Создать Фильтры <u>А</u>льбомов"
+
+msgid "Set Album Filter Depth"
+msgstr "Установите Глубину Фильтра Альбома"
+
+msgid "Root Album shows only 1 level"
+msgstr "Корневой Альбом показывает только 1 уровень"
+
+msgid "Save Settings"
+msgstr "Сохранить Настройки"
+
+msgid "GZoom Extension"
+msgstr "Функции GZoom"
+
+#, fuzzy
+msgid "This section allows you to manage the GZoom Extension"
+msgstr "Этот раздел позволяет управлять Функциями GZoom"
+
+msgid "Ena<u>b</u>le"
+msgstr "Раз<u>р</u>ешить"
+
+msgid "Window Position"
+msgstr "Позиция Окна"
+
+msgid "Top Left Corner"
+msgstr "Верхний Левый Угол"
+
+msgid "Bottom Left Corner"
+msgstr "Нижний Левый Угол"
+
+msgid "Top Right Corner"
+msgstr "Верхний Правый Угол"
+
+msgid "Bottom Right Corner"
+msgstr "Нижний Правый Угол"
+
+msgid "Offset (left-right)"
+msgstr "Смещение (слева-справа)"
+
+msgid "Offset (top-bottom)"
+msgstr "Смещение (верх-низ)"
+
+msgid "Google Overview Map"
+msgstr "Обзорная Карта Google"
+
+#, fuzzy
+msgid "This section allows you to manage an Overview Map"
+msgstr "Этот раздел позволяет настроить Обзорную карту"
+
+msgid "Window size (<u>w</u> x <u>h</u>)"
+msgstr "Размер Окна (<u>ш</u> x <u>в</u>)"
+
+msgid "Verify that the size(s) for the object are correctly entered"
+msgstr "Проверьте, что размер(ы) для этого объекта введены верно"
+
+msgid "Group Settings"
+msgstr "Настройки Группы"
+
+msgid "Settings specific to this Google Map Group"
+msgstr "Настройки только для этой Группы Карт Google"
+
+msgid "Enter Group Title"
+msgstr "Введите Заголовок Группы"
+
+#, fuzzy
+msgid "Please enter a group title."
+msgstr "Пожалуйста введите заголовок группы"
+
+msgid "Group Thumbnail"
+msgstr "Миникартинка Группы"
+
+msgid "Enter a creation date for the group"
+msgstr "Введите дату создания для группы"
+
+msgid "Default is today's date"
+msgstr "По Умолчанию - текущая дата"
+
+msgid "Enter a Summary for this group"
+msgstr "Введите Резюме для этой группы"
+
+msgid "Upload a Thumbnail"
+msgstr "Загрузить Миникартинку"
+
+msgid "Upload and Set"
+msgstr "Загрузить и Установить"
+
+#, fuzzy
+msgid "Enter a Group Description"
+msgstr "Введите Описание Группы"
+
+msgid "GPS coordinates for the marker"
+msgstr "Координата GPS для маркера"
+
+msgid "ZoomLevel for 'Zoom-in' link"
+msgstr "Масштаб для ссылки 'Увеличить'"
+
+msgid "Marker Color"
+msgstr "Цвет Маркера"
+
+#, fuzzy
+msgid "Items in Group"
+msgstr "Объект в Группе"
+
+#, fuzzy
+msgid "Select the items you want to be part of this group"
+msgstr "Выберите объект, который вы хотите добавить к этой группе"
+
+#, fuzzy
+msgid ""
+"There are no items with GPS coordinates. Please add coordinates to at least one item to "
+"create a group."
+msgstr ""
+"Нет объектов с координатами GPS, пожалуйста добавьте по крайней мере два объекта в маршрут"
+
+msgid "Save Group"
+msgstr "Сохранить Группу"
+
+msgid ""
+"This section allows you to manage Groups. A Group is shown as a marker on the main Map. When "
+"clicking its thumbnail, it will not open a Photo Page or an Album page but another Map with "
+"the items selected to be in that group."
+msgstr ""
+
+msgid "Group ID"
+msgstr "Идентификатор Группы"
+
+msgid "Group Name"
+msgstr "Имя Группы"
+
+msgid "Group Creation Date"
+msgstr "Дата Создания Группы"
+
+msgid "Actions"
+msgstr "Действия"
+
+#, fuzzy, c-format
+msgid "Delete Group %s"
+msgstr "Удалить Группу %s"
+
+#, fuzzy, c-format
+msgid "Edit Group %s"
+msgstr "Редактировать Группу %s"
+
+msgid "There are no Groups created, click"
+msgstr "Не создано ни одной Группы, кликните"
+
+msgid "Add Group"
+msgstr "Новая Группа"
+
+msgid "Google Local"
+msgstr ""
+
+msgid "Zoom In"
+msgstr "Увеличить"
+
+msgid "Zoom Out"
+msgstr "Уменьшить"
+
+msgid "Click to set zoom level"
+msgstr "Кликните, чтобы установить масштаб"
+
+msgid "Drag to zoom"
+msgstr "Потащите для увеличения"
+
+msgid "Go left"
+msgstr "Влево"
+
+msgid "Go right"
+msgstr "Вправо"
+
+msgid "Go up"
+msgstr "Вверх"
+
+msgid "Go down"
+msgstr "Вниз"
+
+msgid "Return to the last result"
+msgstr "Вернуться к последнему результату"
+
+msgid "(c)2007 Google"
+msgstr ""
+
+msgid "Map data (c)2007 "
+msgstr ""
+
+msgid "NAVTEQ(tm)"
+msgstr ""
+
+msgid "Tele Atlas"
+msgstr ""
+
+msgid "ZENRIN"
+msgstr ""
+
+msgid "Map (c)2007 "
+msgstr ""
+
+msgid "Map"
+msgstr "Карта"
+
+msgid "Hybrid"
+msgstr ""
+
+msgid "Hyb"
+msgstr ""
+
+msgid "New!"
+msgstr "Новый!"
+
+msgid "Terms of Use"
+msgstr "Условия Использования"
+
+msgid "Satellite"
+msgstr "Спутник"
+
+msgid "Sat"
+msgstr ""
+
+msgid "Imagery (c)2007 "
+msgstr ""
+
+msgid "Scale at the center of the map"
+msgstr "Масштабировать по центру карты"
+
+msgid "km"
+msgstr "км"
+
+msgid "mi"
+msgstr ""
+
+msgid "m"
+msgstr "м"
+
+msgid "ft"
+msgstr ""
+
+#. HINT: Decimal point
+msgid "."
+msgstr ""
+
+#. HINT: Thousands separator
+msgid ","
+msgstr ""
+
+msgid ""
+"We are sorry, but we don't have maps at this zoom level for this region. Try zooming out for "
+"a broader look."
+msgstr ""
+"К сожалению у нас нет карт этого региона для заданного масштаба. Попробуйте увеличить "
+"масштаб для показа большей территории."
+
+msgid ""
+"We are sorry, but we don't have imagery at this zoom level for this region. Try zooming out "
+"for a broader look."
+msgstr ""
+"К сожалению у нас нет изображения этого региона для заданного масштаба. Попробуйте увеличить "
+"масштаб для показа большей территории."
+
+msgid "http://www.google.com/intl/en_ALL/help/terms_local.html"
+msgstr ""
+
+msgid "http://www.google.com/intl/en_ALL/mapfiles/"
+msgstr ""
+
+msgid "google.com"
+msgstr ""
+
+msgid ""
+"The Google Maps API key used on this web site was registered for a different web site. You "
+"can generate a new key for this web site at http://www.google.com/apis/maps/"
+msgstr ""
+"Ключ Google Maps API используемый для этого сайта был сгенерирован для другого сайта. Вы "
+"можете сгенерировать новый ключ для этого сайта на http://www.google.com/apis/maps/"
+
+msgid "Move history"
+msgstr "История перемещений"
+
+msgid "move"
+msgstr "перемещение"
+
+msgid "zoom"
+msgstr "масштаб"
+
+msgid "start"
+msgstr "начало"
+
+msgid "window"
+msgstr "окно"
+
+#, fuzzy
+msgid "This section allows you to create and manage a legend"
+msgstr "Этот раздел позволяет создавать и управлять описаниями"
+
+msgid "Main Options"
+msgstr "Основные Параметры"
+
+msgid "Legend Position"
+msgstr "Позиция Описания"
+
+msgid "Photo Legend"
+msgstr "Описание Фото"
+
+msgid "Activate <u>P</u>hoto Legend"
+msgstr "Активировать Описание <u>Ф</u>ото"
+
+msgid "Initially Expand Legend"
+msgstr "Изначально Раскрыть Описание"
+
+msgid "Not valid when legend is located on the top or bottom"
+msgstr "Не допускается, когда описание расположено сверху или снизу"
+
+msgid "Album Legend"
+msgstr "Описание Альбома"
+
+msgid "Activate Album <u>L</u>egend"
+msgstr "Активировать Описание <u>А</u>льбома"
+
+msgid "Group Legend"
+msgstr "Описание Группы"
+
+msgid "Activate Group Legend"
+msgstr "Активировать Описание Группы"
+
+msgid "Save Legend"
+msgstr "Сохранить Описание"
+
+msgid "Markers have been generated succesfully!"
+msgstr "Маркеры сгенерированы успешно!"
+
+#, fuzzy
+msgid "Save settings before continuing!"
+msgstr "Сохранить Настройки до продолжения!"
+
+#, fuzzy
+msgid "The Marker Set has been deleted, it can be recreated via the Add button"
+msgstr "Набор Маркеров был удален, он может быть создан вновь кнопкой Добавить"
+
+msgid "Cannot create the marker directory, check permissions."
+msgstr "Не могу создать каталог для маркеров, проверьте разрешения."
+
+msgid "Unknown error creating the markers!"
+msgstr "Неизвестная ошибка при создании маркеров"
+
+msgid "Please select a file to upload!"
+msgstr "Пожалуйста выберите файл для загрузки !"
+
+msgid "Please select a PNG file to upload!"
+msgstr "Пожалуйста выберите PNG файл для загрузки!"
+
+msgid "File not uploaded, check that PHP supports file upload"
+msgstr "Файл не загружен, убедитесь, что PHP поддерживает загрузку файлов"
+
+msgid "File not uploaded, check the rights on the map/images folder and subfolders"
+msgstr "Файл не загружен, проверьте права на каталог map/images и его подкаталоги"
+
+msgid "File successfully uploaded"
+msgstr "Файл успешно загружен"
+
+msgid "Markers"
+msgstr "Маркеры"
+
+#, fuzzy
+msgid "This section allows you to manage marker settings"
+msgstr "Этот раздел позволяет изменять настройки маркеров"
+
+msgid "Manage marker sets"
+msgstr "Настроить набор маркеров"
+
+msgid "Please create some markers"
+msgstr "Пожалуйста создайте несколько маркеров"
+
+msgid "View All Available"
+msgstr "Просмотреть Все Доступные"
+
+msgid "Select default photo marker set and color"
+msgstr "Выберите набор маркеров и цвет по умолчанию для фото"
+
+#, fuzzy
+msgid "You need to create some markers first."
+msgstr "Сначала необходимо создать несколько маркеров"
+
+msgid "Please select a default marker set and save."
+msgstr "Пожалуйста выберите набор маркеров по умолчнию и сохраните."
+
+msgid "Select default album marker set and color"
+msgstr "Выберите набор маркеров и цвет по умолчанию для альбома"
+
+msgid "Select default group marker set and color"
+msgstr "Выберите набор маркеров и цвет по умолчанию для группы"
+
+msgid "Use parent album c<u>o</u>lor for items with no color setting"
+msgstr "Использовать <u>ц</u>вет родительского альбома для объектов без заданного цвета"
+
+msgid "Automatic Regroup Settings"
+msgstr "Установки Авто Перегруппировки"
+
+#, fuzzy
+msgid "This section allows you to use the regroup feature"
+msgstr "Этот раздел позволяет использовать функцию перегруппировки"
+
+msgid "Automatic <u>a</u>lbum based regroup"
+msgstr "Автоматическая перегруппировка по <u>а</u>льбому"
+
+msgid "Automatic <u>i</u>tem regroup"
+msgstr "Автоматическая перегруппировка по <u>о</u>бъекту"
+
+msgid "Item regroup distance"
+msgstr "Дистанция перегруппировки объектов"
+
+msgid "Please specify a positive integer."
+msgstr "Пожалуйста задайте положительное целое число."
+
+msgid "Upload a new Icon"
+msgstr "Загрузить новую Иконку"
+
+msgid "Icon for regrouped markers"
+msgstr "Иконка для перегруппированных маркеров"
+
+msgid "Please select an icon."
+msgstr "Пожалуйста выберите иконку."
+
+msgid "View All Available MarkerSets"
+msgstr "Просмотреть Все Доступные Наборы Маркеров"
+
+msgid "This section shows all available MarkerSets"
+msgstr "Этот раздел показывает все доступные Наборы Маркеров"
+
+msgid "There are no MarkerSets to display, how did you get here?"
+msgstr "Нет ни одного Набора Маркеров, как вы сюда попали ?"
+
+#. HINT: Go back
+msgid "Return"
+msgstr "Вернуться"
+
+msgid "Markers Creation Tool"
+msgstr "Инструмент Создания Маркеров"
+
+msgid "This section permits the creation of new markers in various sizes, colors and aspects"
+msgstr "Этот раздел позволяет создавать новые маркеры различных размеров, цветов и видов"
+
+msgid "ImageMagick wasn't detected as installed, you may experience problem generating markers"
+msgstr "Пакет ImageMagick не найден, у вас будут проблемы с созданием маркеров"
+
+msgid "Your BaseMarker folder does not exist, please check the module installation."
+msgstr "Ваш базовый каталог для маркеров не существует, пожалуйста проверьте установку модуля"
+
+msgid "Base Image"
+msgstr "Базовая картинка"
+
+msgid "Please select a base style to use"
+msgstr "Пожалуйста выберите основной стиль для использования"
+
+msgid "Upload a new base icon"
+msgstr "Загрузите новую базовую иконку"
+
+msgid "Upload a Base Marker"
+msgstr "Загрузите Базовый Маркер"
+
+msgid "New Size"
+msgstr "Новый Размер"
+
+msgid "Unchange<u>d</u>"
+msgstr "Не <u>и</u>зменять"
+
+msgid "<u>5</u>0%"
+msgstr ""
+
+msgid "<u>2</u>00%"
+msgstr ""
+
+msgid "Cus<u>t</u>om"
+msgstr "По<u>л</u>ьзовательский"
+
+msgid "Colors"
+msgstr "Цвета"
+
+#, fuzzy
+msgid "<u>A</u>ll Colors"
+msgstr "Все Цвета (<u>A</u>)"
+
+#, fuzzy
+msgid "<u>S</u>elected colors"
+msgstr "Выбранные цвета (<u>S</u>)"
+
+msgid "Blue"
+msgstr "Синий"
+
+msgid "Red"
+msgstr "Красный"
+
+msgid "Yellow"
+msgstr "Желтый"
+
+msgid "Green"
+msgstr "Зеленый"
+
+msgid "Orange"
+msgstr "Оранжевый"
+
+msgid "Aqua"
+msgstr "Морской волны"
+
+msgid "Purple"
+msgstr "Пурпур"
+
+msgid "White"
+msgstr "Белый"
+
+msgid "Black"
+msgstr "Черный"
+
+msgid "Grey"
+msgstr "Серый"
+
+msgid "Marker Set <u>N</u>ame"
+msgstr "<u>И</u>мя Набора Маркеров"
+
+msgid "Please enter the name of the set"
+msgstr "Пожалуйста введите имя набора"
+
+msgid "The name <b>multi</b> is not allowed."
+msgstr "Имя <b>multi</b> не допустимо."
+
+msgid "Generate Markers"
+msgstr "Сгенерировать Маркеры"
+
+msgid "Template file successfully updated, backup file created"
+msgstr "Файл шаблона успешно обновлен, резервная копия создана"
+
+#, fuzzy
+msgid "Error opening file, check permissions on the DefaultTheme/template folder"
+msgstr "Ошибка Открытия файлов, проверьте разрешения для каталога DefaultTheme/template"
+
+msgid "Route successfully deleted"
+msgstr "Маршрут Успешно удален"
+
+msgid "Route successfully edited and saved"
+msgstr "Маршрут Успешно исправлен и сохранен"
+
+msgid "Route Management"
+msgstr "Управление Маршрутами"
+
+msgid ""
+"Your Theme.tpl file does not contain the right HTML tag, routes will not display in Internet "
+"Explorer"
+msgstr ""
+"Ваш файл Theme.tpl не содержит правильного тэга HTML, маршруты не будут отображаться в "
+"Internet Explorer"
+
+#, fuzzy, c-format
+msgid "Refer to %sthe Map Module Wiki%s (Route in IE) for a workaround"
+msgstr "Обратитесь к %s The map Module Wiki%s за решением проблемы"
+
+#. HINT: Update the Theme.tpl file
+msgid "Update it for me"
+msgstr "Обновите это для меня"
+
+msgid "Enable Route Numbering"
+msgstr ""
+
+msgid ""
+"This section permits creation of routes and management of the path to be displayed on the map"
+msgstr "Этот раздел позволяет создавать маршруты и управлять отображением пути на карте"
+
+msgid "Route ID"
+msgstr "Идентификатор (ID) Маршрута"
+
+msgid "Route Name"
+msgstr "Имя Маршрута"
+
+msgid "Route Line Color"
+msgstr "Цвет Линии Маршрута"
+
+msgid "Route Line Width"
+msgstr "Ширина Линии Маршрута"
+
+msgid "Route Line Opacity"
+msgstr "Непрозрачность Линии Маршрута"
+
+msgid "Enabled"
+msgstr "Разрешено"
+
+msgid "Filter"
+msgstr "Фильтр"
+
+#, fuzzy
+msgid "Delete Route"
+msgstr "Удалить Все Маршруты"
+
+#, fuzzy
+msgid "Edit Route"
+msgstr "Редактировать Маршрут"
+
+msgid "Add a Route"
+msgstr "Новый маршрут"
+
+msgid "Delete All Routes"
+msgstr "Удалить Все Маршруты"
+
+msgid "There are no Routes created, click"
+msgstr "Не создано ни одного маршрута, кликните"
+
+msgid "Route Settings"
+msgstr "Настройки Маршрутов"
+
+msgid "Settings specific to this route"
+msgstr "Настройки только для этого маршрута"
+
+msgid "Enter Route <u>N</u>ame"
+msgstr "Введите <u>И</u>мя Маршрута"
+
+#, fuzzy
+msgid "Please enter a route name."
+msgstr "Пожалуйста введите имя маршрута"
+
+msgid "Input Route Co<u>l</u>or"
+msgstr "Введите Ц<u>в</u>ет Маршрута"
+
+msgid "Select"
+msgstr "Выбрать"
+
+msgid "Please enter a route color (Format: #RRGGBB) - No color will default to purple"
+msgstr ""
+"Пожалуйста введите цвет маршрутв (Формат: #RRGGBB) - если цвет не задан то будет использован "
+"пурпурный"
+
+msgid "Enter Route size in <u>p</u>ixels"
+msgstr "Введите размер Маршрута в <u>п</u>икселях"
+
+msgid "Enter Route <u>O</u>pacity"
+msgstr "Введите <u>Н</u>епрозрачность Маршрута"
+
+msgid "Please enter the opacity between 0 and 1 - default is 1"
+msgstr "Пожалуйста введите непрозрачность между 0 и 1 - по умолчанию 1"
+
+msgid "Route Enabled?"
+msgstr "Маршрут Разрешен ?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "Create a Filter for this route?"
+msgstr "Создать Фильтр для этого маршрута ?"
+
+#, fuzzy
+msgid "Items in Route"
+msgstr "Объект в Маршруте"
+
+#, fuzzy
+msgid "Please select at least 2 markers."
+msgstr "Пожалуйста выберите по крайней мере 2 маркера"
+
+#, fuzzy
+msgid "Select the items you want added to this route and the order to add them in"
+msgstr "Выбрать объект, котрый вы хотите добавить к этому маршруту и порядок добавления"
+
+msgid "Thumbnail"
+msgstr "Миникартинка"
+
+msgid "Item Information"
+msgstr "Информация по Объекту"
+
+msgid "Selected"
+msgstr "Выбранный"
+
+msgid "Order"
+msgstr "Порядок"
+
+msgid "Title:"
+msgstr "Заголовок:"
+
+msgid "Date:"
+msgstr "Дата:"
+
+msgid ""
+"There are no items with GPS coordinates, please add at least two entries to make a route"
+msgstr ""
+"Нет объектов с координатами GPS, пожалуйста добавьте по крайней мере два объекта в маршрут"
+
+msgid "Save Route"
+msgstr "Сохранить Маршрут"
+
+#, fuzzy, c-format
+msgid "GPS coordinates have been populated from EXIF on %d photos"
+msgstr "Координаты GPS введены из EXIF на %d Фото"
+
+msgid "Action successful but no GPS coordinates found."
+msgstr "Действие Выполнено, но не обнаружено GPS координат"
+
+#, fuzzy
+msgid "Profile successfully deleted."
+msgstr "Профиль Успешно удален"
+
+#, fuzzy
+msgid "Profile successfully saved."
+msgstr "Профиль Успешно сохранен"
+
+msgid "Map Settings"
+msgstr "Настройки Карты"
+
+msgid "Select Map settings for the Google API"
+msgstr "Выбрать настройки Карты для Google API"
+
+msgid "Google Map Key Profiles"
+msgstr "Профили Ключей Карт Google"
+
+msgid "Add Profile"
+msgstr "Новый Профиль"
+
+msgid "Edit Profile"
+msgstr "Редактировать Профиль"
+
+msgid "Delete Profile"
+msgstr "Удалить Профиль"
+
+msgid "Map <u>W</u>idth"
+msgstr "<u>Ш</u>ирина Карты"
+
+#, fuzzy
+msgid "Map width must be an integer."
+msgstr "Ширина карты должнв быть целым числом"
+
+msgid "Map <u>H</u>eight"
+msgstr "<u>В</u>ысота Карты"
+
+#, fuzzy
+msgid "Map height must be an integer."
+msgstr "Высота карты должна быть целым числом"
+
+#. HINT: Style of Google map
+#, fuzzy
+msgid "Map type"
+msgstr "Тип Карты"
+
+#. HINT: Map style
+msgid "<u>M</u>ap"
+msgstr "<u>К</u>арта"
+
+#. HINT: Map style
+msgid "S<u>a</u>tellite"
+msgstr "С<u>п</u>утник"
+
+#. HINT: Map style
+msgid "H<u>y</u>brid"
+msgstr "Г<u>и</u>брид"
+
+#. HINT: Map zoom scale
+msgid "Show Scale"
+msgstr "Показать Шкалу Масштаба"
+
+msgid "C<u>e</u>nter On"
+msgstr "Ц<u>е</u>нтрировать"
+
+#, fuzzy
+msgid "Format: latitude,longitude"
+msgstr "Формат: 'Широта,Долгота'"
+
+msgid "Please make sure you have formatted the coordinates correctly"
+msgstr "Пожалуйста убедитесь, что вы отформатировали координаты верно"
+
+msgid "<u>Z</u>oom Level"
+msgstr "Уровень <u>У</u>величения"
+
+#, fuzzy
+msgid "Please specify an integer between 0 to 19"
+msgstr "Пожалуйста задайте целое от 0 до 19"
+
+msgid "Aut<u>o</u> Center and Zoom"
+msgstr "Авт<u>о</u> Центр и Масштаб"
+
+#, fuzzy
+msgid "This will ignore the two settings above."
+msgstr "Эта установка будет игнорировать два параметра выше"
+
+#, fuzzy
+msgid "Show the <u>V</u>iew in Google Earth link"
+msgstr "Показать ссылку Экспорт в Google Earth"
+
+msgid "Google Map Link Behavior"
+msgstr "Поведение Ссылки Карт Google"
+
+msgid "Disable the Link"
+msgstr "Запретить Ссылку"
+
+msgid "Show the Default Map"
+msgstr "Показать Стандартную Карту"
+
+msgid "Dynamic Link"
+msgstr "Динамическая Ссылка"
+
+msgid "Show Map filtered on current album"
+msgstr "Показать Карту отфильтрованную по текущему альбому"
+
+msgid "Help on the Admin Pages"
+msgstr "Помощь для Административных Страниц"
+
+msgid "Help on the User's Pages"
+msgstr "Помощь для Пользовательских Страниц"
+
+#, fuzzy
+msgid "Get via a Map Default Settings"
+msgstr "Взять из настроек Карты по умолчанию"
+
+msgid "This section will let you select the default settings for the 'Get via a Map' option"
+msgstr ""
+"Этот раздел позволит вам выбрать настройки по умолчанию для всего раздела 'Взять с Карты'"
+
+msgid "Default Map Center"
+msgstr "Центр Карты по Умолчанию"
+
+msgid "Default Map Zoom"
+msgstr "Масштаб Карты по Умолчанию"
+
+msgid "Please specify an integer between 0 and 17"
+msgstr "Пожалуйста задайте целое от 0 до 17"
+
+msgid "Choose feature(s) to enable"
+msgstr "Выберете Функции, которые будут разрешены"
+
+msgid "This section will let you enable or disable the feature depending on what you need"
+msgstr ""
+"Этот раздел позволит вам разрешить или запретить функцию в зависимости от того, что вам нужно"
+
+msgid "Enable the Google Overview Feature"
+msgstr "Разрешить функции Обзорной Карты Google"
+
+msgid "Enable the GZoom Feature"
+msgstr "Разрешить Функции GZoom"
+
+msgid "Enable the Theme Feature"
+msgstr "Разрешить Функции Тем"
+
+msgid "Enable the MarkerSets Feature"
+msgstr "Разрешить Функции Набора Маркеров"
+
+msgid "Enable the Legend Feature"
+msgstr "Разрешить Функции Описания"
+
+msgid "Enable the Filter Feature"
+msgstr "Разрешить Функции Фильтров"
+
+msgid "Enable the Group Feature"
+msgstr "Разрешить Функции Групп"
+
+msgid "Enable the Route Feature"
+msgstr "Разрешить Функции Маршрутов"
+
+msgid "Edit a Google Map Key"
+msgstr "Редактировать Ключ Карт Google"
+
+msgid "Add a Google Map Key"
+msgstr "Добавить Ключ Google Map"
+
+#, fuzzy
+msgid ""
+"This section will add a key to be used with certain settings of the webserver. If you are "
+"unsure of the values, leave the defaults."
+msgstr ""
+"Этот Раздел добавит ключ для использования в определенных настройках веб-сервера, если вы не "
+"уверены в выборе значений, оставьте значения по умолчанию"
+
+msgid "Name for the Profile"
+msgstr "Имя для Профиля"
+
+#, fuzzy
+msgid "Enter a profile name"
+msgstr "Пожалуйста введите имя фильтра"
+
+msgid "Server Name (e.g. www.myserver.com)"
+msgstr "Имя Сервера (например www.myserver.com)"
+
+msgid "Enter a Server name or IP address"
+msgstr ""
+
+#, fuzzy
+msgid "Port Number (e.g. 80, 443, ...)"
+msgstr "Номер Порта (например 80 , 443, ...)"
+
+#. HINT: Default server port
+#, fuzzy
+msgid "Default is 80"
+msgstr "По Умолчанию"
+
+msgid "Google Map Key"
+msgstr "Ключ Карт Google"
+
+#, fuzzy
+msgid "Enter a Google Map Key"
+msgstr "Редактировать Ключ Карт Google"
+
+#. HINT: Get the Google Map key
+#, fuzzy, c-format
+msgid "Click %shere%s to get the key for"
+msgstr "Клик %sздесь%s получить ключ для"
+
+msgid "Control Settings"
+msgstr "Настройки Управления"
+
+#, fuzzy
+msgid "This section allows you to manage Map Control settings"
+msgstr "Этот раздел позволяет изменять настройки маркеров"
+
+msgid "Map Control Size / Type"
+msgstr "Управление Картой Размер / Тип"
+
+msgid "Control the position below."
+msgstr "Управляет позицией ниже."
+
+msgid "Control position"
+msgstr "позиция Управления"
+
+#, fuzzy
+msgid "Please make sure you have formatted the offset(s) correctly."
+msgstr "Пожалуйста убедитесь, что вы отформатировали Смещение(я) верно"
+
+msgid "Show Map Ty<u>p</u>e"
+msgstr "Показать <u>Т</u>ип Карты"
+
+msgid "InfoWindow Settings"
+msgstr "Настройки Информ.Окошек"
+
+#, fuzzy
+msgid "This section allows you to manage InfoWindow settings"
+msgstr "Этот раздел позволяет управлять Фильтрами"
+
+msgid "Map InfoWindow Template"
+msgstr "Шаблон Информ.Окошка Карты"
+
+msgid "Default Zoom <u>I</u>n Level"
+msgstr "Величина <u>М</u>асштаба по Умолчанию"
+
+msgid ""
+"The default zoom level when a 'zoom in' link is clicked. Specify an integer from 0 to 17."
+msgstr ""
+"Масштаб по умолчанию при переходе по ссылке 'увеличить'. Задайте целое число от 0 до 17."
+
+msgid "Please specify an integer between 0 to 17"
+msgstr "Пожалуйста задайте целое от 0 до 17"
+
+msgid "Show \"Zoom in\" Li<u>n</u>ks"
+msgstr "Показать <u>С</u>сылку \"Увеличить\""
+
+msgid "Show Item S<u>u</u>mmaries"
+msgstr "Показать <u>К</u>раткое описание Объекта"
+
+msgid "Show Item <u>D</u>escriptions"
+msgstr "Показать <u>О</u>писания Объекта"
+
+msgid "Thumbnail bar settings"
+msgstr "Настройка полосы миникартинок"
+
+#, fuzzy
+msgid "This section manages the thumbnail bar visibility and basic settings"
+msgstr ""
+"Этот раздел позволит показать/спрятать полосу миникартинок и выполнить для него основные "
+"настройки"
+
+msgid "Thumbnail Bar Position"
+msgstr "Позиция полосы Миникартинок"
+
+msgid "Thumbnail Size"
+msgstr "Размер Миникартинки"
+
+#, fuzzy
+msgid "Height for TOP &amp; BOTTOM position, Width for LEFT &amp; RIGHT position"
+msgstr "Высота для позиций ВЕРХ и НИЗ, Ширина для позиций ЛЕВО и ПРАВО"
+
+msgid "Photo Map"
+msgstr "Карта Фото"
+
+msgid "Filtered on"
+msgstr "Отфильтровано"
+
+msgid "Grab coordinates from Map"
+msgstr "Взять координаты с Карты"
+
+msgid ""
+"There was a hacking attempt on the filter name, please remove the filter option from the "
+"address bar."
+msgstr "Хакерская атака по имени фильтра, пожалуйста удалите опции фильтра из адреса."
+
+#, fuzzy, c-format
+msgid ""
+"There are no markers created or a bad marker set is currently selected. Please review "
+"settings in the %scontrol panel%s."
+msgstr ""
+"Нет созданных маркеров или неверный набор маркеров выбран, пожалуйста проверьте настройки в %"
+"sпанель управления%s."
+
+msgid "There are no items with GPS coordinates"
+msgstr "Нет объектов с координатами GPS"
+
+msgid "Check the Wiki for more information"
+msgstr "Проверьте Wiki для дополнительной информации"
+
+msgid "There are no items available to be mapped"
+msgstr "Нет объектов для показа на карте"
+
+#, c-format
+msgid "There were no items found in the selected %s, what would you like to do?"
+msgstr "Не найдено объектов в выбранном %s, что вы хотите сделать ?"
+
+#, fuzzy, c-format
+msgid "%sGo Back%s to the Album and add coordinates to items"
+msgstr "%sВернуться%s в Альбом и добавить координаты к объектам "
+
+#, fuzzy, c-format
+msgid "Show me the %sdefault map%s"
+msgstr "Показать мне %sкарта по умолчанию%s"
+
+#, fuzzy, c-format
+msgid ""
+"You do not have a profile setup for this website to use the Google Map. Review your settings "
+"in the %sAdmin Panel%s or %scheck the Wiki%s."
+msgstr ""
+"У вас нет настроенного профиля для использования Карт Google с этим сайтом, проверьте ваши "
+"настройки в %sАдминистрирование%s или %sПроверьте wiki%s"
+
+msgid "Loading, please wait..."
+msgstr "Загружается, подождите, пожалуйста..."
+
+msgid "MENU"
+msgstr "МЕНЮ"
+
+msgid "Save these coordinates"
+msgstr "Сохранить эти координаты"
+
+#. HINT: Hints or suggestions
+#, fuzzy
+msgid "Tips"
+msgstr "Напоминания"
+
+#, fuzzy
+msgid "Click on the map to choose the point."
+msgstr "Клик по карте выставляет ее центр"
+
+msgid "Each click will create a marker to ease aiming."
+msgstr "Каждый клик создаст маркер для простоты прицеливания"
+
+msgid ""
+"When you are satisfied with the coordinates, click <B>Save</B> above and the center of the "
+"map and the zoom level will be copied in the GPS and ZoomLevel fields of the item."
+msgstr ""
+"Когда координаты вас устроят, кликните <B>Сохранить</B> выше и центр карты и масштаб будут "
+"скопированы в поля GPS и Масштаб данного объекта."
+
+msgid "Current Coordinates"
+msgstr "Текущие Координаты"
+
+msgid "Current Zoomlevel"
+msgstr "Текущий Масштаб"
+
+msgid "Google Map Administration"
+msgstr "Администрирование Карт Google"
+
+msgid "This has no help yet."
+msgstr ""
+
+msgid ""
+"This allows you to setup different keys in case your website is accessed via different "
+"addresses.<br/>The program will select the right key automatically provided that it was "
+"created.<br/><br/><b>For Example: </b>If users access your website via http://www.myweb.com "
+"and http://myweb.com, you need two separate keys.<br/><br/>Add Profile will add a new key "
+"for a specific server address.<br/><br/>To edit or delete a profile, just select it and "
+"click the button."
+msgstr ""
+
+msgid ""
+"This is the Width of the Map.<br/><br/>You have a choice between a size in <u>Pixels</u> or "
+"a size in <u>Percentage</u>.<br/><br/>Pixels will be an exact size, Percentage will be "
+"dependent on the window size and the things on the page that can reduce the size (sidebar, "
+"etc...)<br/><br/>Note: Percentage doesn't work very well with certain Themes."
+msgstr ""
+
+msgid ""
+"This is the Height of the Map.<br/><br/>You have a choice between a size in <u>Pixels</u> or "
+"a size in <u>Percentage</u>.<br/><br/>Pixels will be an exact size, Percentage will be "
+"dependent on the window size and the things on the page that can reduce the size (sidebar, "
+"etc...)<br/><br/>Note: Percentage doesn't work very well with certain Themes."
+msgstr ""
+
+msgid ""
+"The Map Type is the Default Map that will be displayed from Google.<br/><br/><b>Map</b> is a "
+"vector type with roads, boundaries, etc. similar to a paper map.<br/><br/><b>Satellite</b> "
+"will show imagery of the area (2 extra zoom levels are available for this Map Type)<br/><br/"
+"><b>Hybrid</b> will overlay the Map vector data on the satellite imagery."
+msgstr ""
+
+msgid ""
+"This will enable/disable the display of a scale automatically generated by the Google API on "
+"the bottom left corner of the map."
+msgstr ""
+
+msgid ""
+"These are the GPS coordinates of the location you would like to show at the center of the "
+"Map when first displayed.<br/><br/>The Get via a Map function allows you to click on a map "
+"to choose the center."
+msgstr ""
+
+#, fuzzy
+msgid "This will set the default Zoom for the Map when first displayed."
+msgstr ""
+"Этот раздел позволит вам выбрать настройки по умолчанию для всего раздела 'Взять с Карты'"
+
+msgid ""
+"This will automatically center and zoom the map to include all the items displayed.<br/><br/"
+">It overrides the default Center and Zoom settings above."
+msgstr ""
+
+msgid ""
+"Select if you want to show the \"Export to Google Earth\" link for items.<br/> This is "
+"originally from the gps module that was included in this module. <br/><br/><a target=\"_new"
+"\" href=\"http://codex.gallery2.org/index.php/Gallery2:Modules:Gps\">More information on "
+"this module.</a>"
+msgstr ""
+
+msgid ""
+"This lets you choose the behavior for the \"Show Google Map\" Link.<br/><br/><b>Disable the "
+"link</b> will remove the link from all locations in your Gallery. You will need to point to "
+"main.php?g2_view=map.ShowMap to view the map.<br/><br/><b>Show The Default Map</b> will "
+"simply show all items available in your gallery that have GPS coordinate set.<br/><br/"
+"><b>Dynamic Link</b> will show either the default map or a map filtered on the current album "
+"depending if there are items in the current album / sub-album.<br/>This adds some processing "
+"on the server and can be slow depending on your gallery size.<br/><br/><b>Show Map Filtered "
+"on current album</b> will always filter the map on the current album.<br/> If there are no "
+"items in the current album or sub-albums with GPS coordinates it will show a \"friendly\" "
+"error message."
+msgstr ""
+
+msgid "This enables/disables the help on the admin pages."
+msgstr ""
+
+msgid "This enables/disables the help on the user pages."
+msgstr ""
+
+msgid ""
+"This sets the default center for the \"Get via a Map\" operations.<br/><br/>This is "
+"particularly useful if all of your markers will be in the same area."
+msgstr ""
+
+#, fuzzy
+msgid "This sets the default zoom for the \"Get via a Map\" operations."
+msgstr ""
+"Этот раздел позволит вам выбрать настройки по умолчанию для всего раздела 'Взять с Карты'"
+
+msgid ""
+"This will enable/disable the Google Overview Settings tab.<br/><br/>The settings for the "
+"Overview Map from the Google API can be controlled on this tab."
+msgstr ""
+
+msgid ""
+"This will enable/disable the GZoom Settings tab.<br/><br/>For more information, <a target="
+"\"_new\" href=\"http://earthcode.com/blog/2006/07/gzoom.html\">click here</a>."
+msgstr ""
+
+msgid ""
+"This enables/disables the Theme Settings tab.<br/><br/>On this tab 3 things can be set:<br/"
+"><br/><b>Controls</b>: Choose between custom or built-in controls and select the position of "
+"the map controls.<br/><br/><b>InfoWindow</b>: The InfoWindows can be changed by selecting a "
+"template from a dropdown.<br/><br/><b>Thumbnail Bar</b>: The Thumbnail bar is a bar with "
+"small version of the pictures currently displayed on the map. Its size and position can be "
+"customized."
+msgstr ""
+
+msgid ""
+"This enables/disables the Markers Settings tab.<br/><br/>On this tab, you can:<br/><br/"
+">Create a new marker set to be used for the map.<br/><br/>Select which marker set to use for "
+"photos, album or groups.<br/><br/>Enable or disable the automatic regroup feature."
+msgstr ""
+
+msgid ""
+"This enables/disables the Legend Management tab.<br/><br/>This is where you enter the legend "
+"to associate text with each marker color.<br/><br/>Also, you can enable and position the "
+"Legend Block."
+msgstr ""
+
+msgid ""
+"This enables/disables the Filter Management tab.<br/><br/>This permits you to enable and "
+"control filters. There are 2 types of filters:<br/><br/><b>Manual Filters</b> that simply "
+"lets you choose a center and a zoom on the map to show a specific area when selected.<br/"
+"><br/><b>Album Filters</b> are created automatically on the fly (when enabled) and display "
+"only items contained in the album and its subalbums. You can also choose how many subalbum "
+"levels to include."
+msgstr ""
+
+msgid ""
+"This enables/disables the Group Management tab.<br/><br/>This allows you to create Groups "
+"which are items with GPS coordinates and a thumbnail picture. Each group can \"contain\" "
+"other groups, photos and albums.<br/><br/>When a group is selected on the map, it will show "
+"only the items contained into that group (it's like manual albums).<br/><br/>To see a group "
+"you have two choices: Either click on it on the default map and then click the thumbnail or "
+"else go directly to it via the address bar with g2_view=map.ShowMap&g2_group=G1 (for Group "
+"1)."
+msgstr ""
+
+msgid ""
+"This enables/disables the Routes Management tab.<br/><br/>Routes link existing album, photos "
+"and groups in a path. You can select as many items as you'd like to be part of that route "
+"and select their order."
+msgstr ""
+
+msgid ""
+"This is simply the name of the profile. It will appear in the list of keys when it's fully "
+"created."
+msgstr ""
+
+msgid ""
+"Enter the name of your server as users will access it.<br/><br/><b>For example:</b> if users "
+"access your server via http://myserver.mydomain.com, the server name is myserver.mydomain.com"
+msgstr ""
+
+msgid ""
+"This is the port used to access the server. If you don't know what it is, it's probably 80 "
+"(for http) or 443 (for https).<br/><br/>If you access the server with a url such as http://"
+"myserver:5643/ the port would be 5643."
+msgstr ""
+
+msgid ""
+"This is the key that Google gives you for your server/port, copy from the Google signup site "
+"and paste it here.<br/><br/>The Google signup site is here:<br/><a target=\"_new\" href="
+"\"http://www.google.com/apis/maps/signup.html\">http://www.google.com/apis/maps/signup.html</"
+"a>"
+msgstr ""
+
+msgid ""
+"This allows you to enable/disable the GZoom feature.<br/><br/>If you enable this, you will "
+"see a Zoom Control on your Map. Instructions are provided when you select it."
+msgstr ""
+
+msgid ""
+"This enables/disables the Overview Map that Google has implemented in Google Maps API "
+"version 2.<br/><br/>It will show a zoomed out version of the map on a corner (of your "
+"choice) so you can tell where you are on the \"global\" map."
+msgstr ""
+
+msgid ""
+"The size of the Overview Map window on the corner of the main map.<br/><br/>By default it is "
+"200px x 200px."
+msgstr ""
+
+msgid ""
+"This is the position of the Overview Map.<br/><br/>By default it's on the bottom right-hand "
+"corner of the map.<br/><br/>Also, you can configure the window offset in pixels."
+msgstr ""
+
+msgid ""
+"This will let you choose which set of Controls to use on the map.<br/><br/>The controls "
+"include buttons to change the map Type (MAP, HYBRID, SATELLITE), Zoom In & Out and Pan the "
+"map.<br/><br/>By default it uses the Stock - Small which are included in the Google Map API."
+msgstr ""
+
+msgid ""
+"This selects the position of the Controls. The default Anchor is one of the corners.<br/><br/"
+">When an anchor is selected, you can also set an offset from that specific corner in pixels."
+"<br/><br/>This is only for the zoom in, zoom out, zoom slider and panning controls."
+msgstr ""
+
+msgid ""
+"This determines if the Map Type selector is shown.<br/>If this is activated, users will have "
+"the ability to change the map type between: MAP, SATELLITE or HYBRID."
+msgstr ""
+
+msgid ""
+"This allows you choose the InfoWindow template to use for all items.<br/><br/>You can create "
+"new templates by following the examples in modules/map/templates/infowindow/; each template "
+"is an .inc file.<br/><br/>The InfoWindows are the bubbles that open up when you click a "
+"marker item on the map."
+msgstr ""
+
+msgid ""
+"When editing an item, you can add GPS coordinates, a zoom value and a color for the marker."
+"<br/><br/>The zoom-in value is used by the Mini Map block and by links on the InfoWindows if "
+"activated below.<br/><br/>This lets you set a default zoom level in case a value was not set "
+"by the user. A zoom level of 5 is a good default value."
+msgstr ""
+
+msgid ""
+"This will show the zoom-in value in the InfoWindow if the template supports it. All the "
+"included templates support this feature.<br/><br/>The link is Javascript and simply changes "
+"the zoom level of the map when clicked."
+msgstr ""
+
+msgid ""
+"This will show the item Summary (or short description) in the InfoWindow if the template "
+"supports it. All the included templates support this feature."
+msgstr ""
+
+msgid ""
+"This will show the item Description in the InfoWindow if the template supports it. All the "
+"included templates support this feature."
+msgstr ""
+
+msgid ""
+"This will show a bar of thumbnails for the items that are curently shown on the map.<br/><br/"
+">You can select the visibility and position of the Thumbnail Bar (top, bottom, left, right)."
+"<br/><br/>By default it is hidden."
+msgstr ""
+
+msgid ""
+"This controls the size of the Thumbnail Bar.<br/><br/>If the Thumbnail Bar is on the top or "
+"bottom of the map, the size will control the height of the bar (the width matches the map "
+"width).<br/><br/>If the Thumbnail Bar is on the left or right of the map, the size will "
+"control the width of the bar (the height matches the map height)."
+msgstr ""
+
+msgid ""
+"This is the Legend Position.<br/><br/>If Left is selected it will be shown in the Sidebar "
+"(doesn't work with Gallery v2.2+).<br/><br/>If Top or Bottom is selected, it will be flat "
+"and will not have the expand feature explained below.<br/><br/>By default the Legend is "
+"hidden."
+msgstr ""
+
+msgid ""
+"This activates the Photo marker legend. Once activated, the colored markers will appear "
+"below with text boxes for descriptions.<br/><br/>If you enter a description for a color that "
+"does not have any items associated with it, it will still appear in the legend."
+msgstr ""
+
+msgid ""
+"When the Legend is used horizontally (left or right position), the sections can be expanded/"
+"collapsed. This option will make the Photo section expanded by default."
+msgstr ""
+
+msgid "This activates the Album marker legend (see Photo legend for more info)."
+msgstr ""
+
+msgid "This will make the Album section expanded by default (see Photo legend for more info)."
+msgstr ""
+
+msgid "This activates the Group marker legend (see Photo legend for more info)."
+msgstr ""
+
+msgid "This will make the Group section expanded by default (see Photo legend for more info)."
+msgstr ""
+
+msgid ""
+"This is the Filter Block Position<br/><br/>If Left is selected it will be shown in the "
+"Sidebar (doesn't work with Gallery v2.2+).<br/><br/>If Top or Bottom is selected, it will be "
+"flat.<br/><br/>By default it is hidden."
+msgstr ""
+
+msgid ""
+"This allows you to add Manual filters.<br/><br/>Manual filters are a set of coordinates and "
+"a zoom level to center the map on a specific area; it doesn't change the Map data.<br/><br/"
+">You can add, remove or edit filters; Add or Edit will show the same window."
+msgstr ""
+
+msgid ""
+"Album Filters will create a filter for each album that has items (or sub-items) with GPS "
+"coordinates.<br/><br/>Selecting an Album Filter will show a map with only items from that "
+"album, similar to \"Show Album on a Map\""
+msgstr ""
+
+msgid ""
+"This controls the depth of sub-albums to show.<br/><br/>The Album Map will not show items "
+"that are nested deeper than the level entered.<br/><br/>By default, there is no limit to the "
+"depth."
+msgstr ""
+
+msgid ""
+"This overrides the above settings for the Root album and limits the Album Map to show only "
+"top-level items included in the Root album and excludes items in sub-albums."
+msgstr ""
+
+msgid ""
+"This is the name of the filter which will be shown in the dropdown inside the filter block."
+msgstr ""
+
+msgid ""
+"These are the coordinates on which to center the map for this specific filter. Selecting the "
+"coordinates from a map will set both the coordinates and zoom."
+msgstr ""
+
+msgid ""
+"This is the zoom to use when the filter is selected. It can be chosen from a map directly "
+"(see below)."
+msgstr ""
+
+msgid ""
+"This is the name and title of the Group.<br/><br/>It will be displayed on the top of the "
+"InfoWindow as well as in the tooltip when the mouse is on the marker."
+msgstr ""
+
+msgid "This the date of the item to be displayed in the InfoWindow."
+msgstr ""
+
+msgid ""
+"This is the \"Summary\" in the Gallery sense.<br/><br/>This will show in the InfoWindow if "
+"configured in the Theme Settings."
+msgstr ""
+
+msgid ""
+"Select a Thumbnail for this group.<br/><br/>The picture will be shown in the InfoWindow "
+"sized to fit.<br/><br/>Only JPG images seem to work correctly."
+msgstr ""
+
+msgid ""
+"This is the \"Description\" in the Gallery sense.<br/><br/>This will show in the InfoWindow "
+"if configured in the Theme Settings."
+msgstr ""
+
+msgid ""
+"These are the coordinates at which the Group Marker will show up on the map.<br/><br/>The "
+"coordinates and zoom can be chosen from a map."
+msgstr ""
+
+msgid ""
+"This is the zoom level at which the map will be displayed when the Zoom In link is clicked."
+"<br/><br/>The Zoom In link will be shown in the InfoWindow if configured in the Theme "
+"Settings."
+msgstr ""
+
+msgid ""
+"This is the color of the marker.<br/><br/>The list is created from the available colors for "
+"the Group Marker in the Marker Tab."
+msgstr ""
+
+msgid ""
+"Check the items you want to display on the map when the group is selected.<br/><br/>If no "
+"items are selected, an error will be displayed when the group thumbnail is clicked. Pink "
+"items are photos, green items are albums and blue items are other groups."
+msgstr ""
+
+msgid ""
+"According to the Google API documentation, if you want the routes (also known as polylines) "
+"to work properly in Internet Explorer, you must have the proper attributes in the web page "
+"HTML tag.<br/><br/>If you don't have this setup properly, the map will not work or the "
+"routes will not show up when viewed in Internet Explorer.<br/><br/>This button will change "
+"theme.tpl of the default Gallery theme to modify the HTML tag. A backup of the file called "
+"theme.bak will be saved in the same place.<br/><br/>If your Gallery becomes unusable after "
+"clicking this, restore theme.bak to theme.tpl (via FTP or shell access) to get everything "
+"back to normal.<br/><br/>You can then make the change by hand (see Wiki) which is a bit "
+"safer."
+msgstr ""
+
+msgid ""
+"This will put numbers in each icon that belongs to a route.<br><br>Currently, this requires "
+"ImageMagick to be functional, otherwise the markers cannot be created and will not be shown."
+"<br><br>If you're getting no markers at all, verify that the web server has rights to write "
+"to modules/map/images/routes/."
+msgstr ""
+
+msgid ""
+"This is a name for your route. It will be used on the Routes management page and shown in "
+"the filter list if \"Filter\" is selected below."
+msgstr ""
+
+msgid ""
+"This is the color for the lines that will show as a route on the map.<br/><br/>The default "
+"is purple.<br/><br/>Click on the color to pick from a palette or enter the RGB hex value in "
+"the text box."
+msgstr ""
+
+msgid "This is the width of the line in pixels.<br/><br/>The width is 3 pixels by default."
+msgstr ""
+
+msgid ""
+"Change the opacity to adjust the transparency of the route line.<br/><br/>It is a number "
+"between 0 and 1, with 1 being the default.<br/><br/>0 is invisible and 1 is completely "
+"opaque."
+msgstr ""
+
+msgid ""
+"Disabling the route allows you to remove it from the map without deleting the route itself."
+msgstr ""
+
+msgid ""
+"This setting will create a filter for this route which will appear in the filter block.<br/"
+"><br/>When the filter is selected it will auto-zoom and center the map to display items in "
+"the route."
+msgstr ""
+
+msgid ""
+"Select the items to include in this route and the order in which the items should appear. "
+"The markers for these items will be created dynamically to add a number for the item in the "
+"route sequence.<br/><br/>You must select at least 2 items to create a route.<br/><br/>Pink "
+"items are photos, green items are albums and blue items are groups."
+msgstr ""
+
+msgid ""
+"This allows you to see what markers are available.<br/><br/>Click View All to see all "
+"available marker sets.<br/><br/>Select a markerset from the dropdown and Click Delete to "
+"remove it.<br/><br/>Click Add to create a new marker set."
+msgstr ""
+
+msgid ""
+"This is the Marker Set for Photos and also the default color if none is selected for a "
+"specific photo."
+msgstr ""
+
+msgid ""
+"This is the Marker Set for Albums and also the default color if none is selected for a "
+"specific album."
+msgstr ""
+
+msgid ""
+"This is the Marker Set for Groups and also the default color if none is selected for a "
+"specific group."
+msgstr ""
+
+msgid ""
+"When this is checked, an item without a color selected will use its parent album's color."
+"<br><br>If the parent has no color selected, then it will use the default color above."
+"<br><br>This allows you to use a specific color for an entire album."
+msgstr ""
+
+msgid ""
+"When this is checked, all items close to their parent album will be hidden.<br><br>When the "
+"zoom level is high enough to show all of the children items, the album item will not shown "
+"on the map."
+msgstr ""
+
+msgid ""
+"When this is checked, all items too close together will be grouped into another item."
+"<br><br>If the item is clicked, the correct zoom level will be used to show all items inside "
+"the group.<br><br>The regrouping happens dynamically when the zoom scale is changed."
+"<br><br>This can slow down the map display if lots of items are present. (>1000)"
+msgstr ""
+
+msgid ""
+"This is the distance (in pixels) at which items get regrouped. This can be changed so that "
+"different icon sizes won't overlap.<br><br>The default is 15 pixels."
+msgstr ""
+
+msgid "This allows you to upload a new icon to use for the regrouped items."
+msgstr ""
+
+msgid ""
+"Select which icon you want to display on the map in place of the regrouped items."
+"<br><br>This is only used if automatic regroup of items is enabled."
+msgstr ""
+
+msgid ""
+"Select an existing base image from which to create a marker set.<br/><br/>The base color "
+"must be reddish in order for ImageMagick to properly process the colors. Otherwise, results "
+"will be unpredictable."
+msgstr ""
+
+msgid ""
+"This allows you to upload a new icon from which to create a marker set.<br/><br/>Remember "
+"the color needs to be somewhat red/pink for the coloring to work correctly."
+msgstr ""
+
+msgid ""
+"This allows you to adjust the size of all the markers created in the new set relative to the "
+"original (base) image used."
+msgstr ""
+
+msgid ""
+"Here you can either choose all colors, or select specific colors. If you chooose specific "
+"colors, only those colors will be available in the color selection for each item."
+msgstr ""
+
+msgid ""
+"This is the marker set name.<br/><br/>If the set already exists, you will be given the "
+"oportunity to overwrite or cancel."
+msgstr ""
+
+msgid ""
+"This is the GPS coordinates in the format latitude, longitude.<br><br>There are 4 options to "
+"get coordinates here:<br> - Enter them manually.<br><br> - Get them from the EXIF header (a "
+"button to get from EXIF header will show up if they're available).<br><br> - Enter an "
+"address and click 'Get Via Address'.<br><br> - Click the Get via map to manually select "
+"them.)"
+msgstr ""
+
+msgid ""
+"This is used with the 'Zoom-in' link.<br><br>If that option is activated in the Site Admin, "
+"it will show a link in the InfoWindow to zoom the map to the value entered for the item."
+"<br><br>Higher values mean closer to the street level (from 0 to 19)."
+msgstr ""
+
+msgid ""
+"This field allows you to customize the viewpoint for the item in Google Earth when the "
+"marker is double-clicked.<br><br>Enter the parameters in the format: heading,tilt,range."
+msgstr ""
+
+msgid ""
+"This is simply the color of the marker to use for that item.<br><br>If no color is selected, "
+"either the default marker color is chosen or (if available and enabled) the parent album "
+"color will be used."
+msgstr ""
+
+msgid ""
+"This simply shows a map and allows you to click on it to define where the marker location "
+"and associated zoom level."
+msgstr ""
+
+msgid ""
+"Enter the address in the format <br> '202 North Lasalle, Chicago, IL' for example."
+"<br><br>Then click the button to retrieve the coordinates. Be sure to click the save button "
+"to keep the coordinates."
+msgstr ""
+
+msgid ""
+"This button only appears when an EXIF header is present and GPS coordinates are found in the "
+"photo header data.<br><br>Simply click the button to populate and save the coordinates for "
+"that item."
+msgstr ""
+
+msgid ""
+"This will modify the photo and write the current coordinates to its EXIF header.<br><br>It "
+"can be used as a form of backup for the coordinates if they get lost."
+msgstr ""
+
+#. HINT: Address not found
+msgid "Not found"
+msgstr ""
+
+msgid "No Value"
+msgstr "Нет Значения"
+
+msgid "<u>G</u>et via a Map"
+msgstr "<u>В</u>зять с Карты"
+
+#, fuzzy
+msgid "Get via EXIF headers"
+msgstr "Взять из EXIF"
+
+msgid "Write GPS to EXIF header"
+msgstr "Записать GPS координаты в заголовок EXIF"
+
+#, fuzzy
+msgid "No GPS coordinates to write."
+msgstr "Координата GPS для маркера"
+
+msgid "This picture already has GPS coordinates in the header"
+msgstr ""
+
+#, fuzzy
+msgid "<u>E</u>nter Address and "
+msgstr "Введите Адрес и "
+
+msgid "Get via address"
+msgstr "Получить по адресу"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Reset"
+msgstr "Переустановить"
+
+#, c-format
+msgid "%s Coordinates:"
+msgstr ""
+
+msgid "Legend(s)"
+msgstr "Описание(я)"
+
+msgid "Grouping"
+msgstr "Группирование"
+
+msgid ""
+"When you click on this icon, it automatically zooms in to show the icons that are Regrouped "
+"together"
+msgstr ""
+"когда вы кликните на эту иконку, масштаб автоматически изменится, чтобы показать иконки "
+"перегруппированные вместе"
+
+#, c-format
+msgid "%s Location Map"
+msgstr "%s Расположение Карты"
+
+#, fuzzy
+msgid "Google Map Filters (Map View only)"
+msgstr "Фильтры Карт Google"
+
+msgid "Google Map Marker Legend (Map View only)"
+msgstr ""
+
+#, fuzzy
+msgid "Google Map Thumbnail Bar (Map View only)"
+msgstr "Список иконок Карт Google"
+
+msgid "Item Map coordinates"
+msgstr ""
+
+msgid "Coordinate display style"
+msgstr ""
+
+msgid "Decimal Degrees"
+msgstr ""
+
+msgid "Degrees Decimal Minutes"
+msgstr ""
+
+msgid "Degrees Minutes Seconds"
+msgstr ""
+
+#, fuzzy
+msgid "Mini Google Map"
+msgstr "Карта Google"
+
+msgid "Map height (pixels)"
+msgstr ""
+
+#, c-format
+msgid "Map width (% or px)"
+msgstr ""
+
+msgid "Enable pan and zoom controls"
+msgstr ""
+
+#, fuzzy
+msgid "Use parent album coordinates if item has none"
+msgstr "Использовать <u>ц</u>вет родительского альбома для объектов без заданного цвета"
+
+msgid "Album page: Show album marker"
+msgstr ""
+
+msgid "Album page: Show item markers"
+msgstr ""
+
+#, fuzzy
+msgid "None"
+msgstr "Нет"
+
+#, fuzzy
+msgid "Show items in current album level"
+msgstr "Показать Карту отфильтрованную по текущему альбому"
+
+msgid "Show all album subitems"
+msgstr ""
+
+#, fuzzy
+msgid "Area to show on the Map"
+msgstr "Область для Показа на Карте"
+
+#, fuzzy
+#~ msgid "Cannot get info from Google Maps"
+#~ msgstr "Не могу получить информацию от Google Maps"
+
+#~ msgid ""
+#~ "If checked, items with no specified color are displayed the color set in the parent album "
+#~ "(if any). Otherwise, the default color (set above) is taken."
+#~ msgstr ""
+#~ "Если отмечено, объекты без заданного цвета будут показаны в цвете родительского альбома. "
+#~ "Иначе цвет по умолчанию (заданный выше) будет использован."
+
+#~ msgid ""
+#~ "Hides items that are very close to their parent album, and hides album icon if all "
+#~ "children are displayed"
+#~ msgstr ""
+#~ "Спрятать объекты слишком близкие к их родительскому альбому, и спрятать иконку альбома, "
+#~ "если все его объекты показаны"
+
+#, fuzzy
+#~ msgid ""
+#~ "Hides items that are very close to each other (after album regroup if enabled), and shows "
+#~ "a marker to zoom in and see the hidden items"
+#~ msgstr ""
+#~ "Спрятать объекты, которые слишком близко к друг другу (после перегруппировки альбома, "
+#~ "если разрешено) и показать маркер для увеличения и спрятанные объекты"
+
+#~ msgid ""
+#~ "If automatic regroup is enabled, items at this distance in pixels (or closer) are "
+#~ "regrouped"
+#~ msgstr ""
+#~ "Если автоматическая перегруппировка разрешена, объекты на этой дистанции (или ближе) "
+#~ "будут перегруппированы"
+
+#~ msgid "This is only used if the <b>Automatic item regroup</b> option is activated."
+#~ msgstr ""
+#~ "Это используется только если опция <b>Автоматическая перегруппировка</b> активирована"
+
+#~ msgid "&laquo; No Filters &raquo;"
+#~ msgstr "&laquo; Без Фильтров &raquo;"
+
+#~ msgid "Google Earth Album Export"
+#~ msgstr "Экспорт Альбома в Google Earth"
+
+#~ msgid "Display settings saved successfully"
+#~ msgstr "Настройки Отображения успешно сохранены"
+
+#~ msgid "New field added successfully"
+#~ msgstr "Новое поле добавлено успешно"
+
+#~ msgid "Field moved successfully"
+#~ msgstr "Поле успешно перемещено"
+
+#~ msgid "Field removed successfully"
+#~ msgstr "Поле успешно удалено"
+
+#~ msgid "Picklist updated successfully"
+#~ msgstr "Список обновлен успешно"
+
+#~ msgid "Field name already in use"
+#~ msgstr "Имя поля уже используется"
+
+#~ msgid "Generate Google Earth file from Album"
+#~ msgstr "Сгенерировать файл Google Earth из Альбома"
+
+#~ msgid "(required)"
+#~ msgstr "(требуется)"
+
+#~ msgid ""
+#~ "The track recorded by the GPS Receiver. It must be in gpsbabel.org's custom format and "
+#~ "the timestamps must be valid. This process will only work if you synchronized the time "
+#~ "and date of your camera with the GPS before you started taking the photos in this album."
+#~ msgstr ""
+#~ "Трек записан приемником GPS. Он должен быть в формате gpsbabel.com и отметки времени "
+#~ "должны быть верными. Процесс будет успешным только в том случае, если вы синхронизировали "
+#~ "время и дату вашей камеры с GPS до того, как начали перенос фотографий в этот альбом."
+
+#~ msgid "Timezone"
+#~ msgstr "Часовой пояс"
+
+#~ msgid "Cameras timestamp photos using the localtime. Enter the timezone used."
+#~ msgstr "Отметки времени в фотокамере используют местное время. Введите ваш часовой пояс."
+
+#~ msgid "Export"
+#~ msgstr "Экспорт"
+
+#~ msgid "Markers settings"
+#~ msgstr "Настройки Маркеров"
+
+#~ msgid "This section permits to manage the filters and to create a legend"
+#~ msgstr "Этот раздел позволяет управлять фильтрами и создавать обозначения"
+
+#~ msgid "Please enter a zoom value between 0 and 17"
+#~ msgstr "Пожалуйста введите значение масштаба от 0 до 17"
+
+#~ msgid "Get Via Map"
+#~ msgstr "Взять с Карты"
+
+#~ msgid "Please enter a correct coordinate"
+#~ msgstr "Пожалуйста введите правильную координату"
+
+#~ msgid "How many level under the selected album will show on the map. 0 will show all levels"
+#~ msgstr "Сколько уровней под выбранным альбомом показать на карте. 0 - показать все уровни"
+
+#~ msgid "Setting this will override the parameter above for the root album only"
+#~ msgstr "Эта установка перекроет параметры выше только для корневого альбома"
+
+#~ msgid ""
+#~ "There is no Item with GPS coordinate, please add at least some entries to be part of this "
+#~ "group"
+#~ msgstr "Нет Объектов с координатами GPS, добавьте хотя бы несколько объектов в эту группу"
+
+#~ msgid "This section permits to manage Groups"
+#~ msgstr "Этот раздел позволяет настраивать Группы"
+
+#~ msgid "Group Thumb"
+#~ msgstr "Миникартинка Группы"
+
+#~ msgid ""
+#~ "This Section permits to enable/disable the GxMagnifier tool and to set some options for it"
+#~ msgstr ""
+#~ "Этот Раздел позволяет разрешить/запретить функцию GxMagnifier и задать некоторые "
+#~ "параметры для нее"
+
+#~ msgid "<u>E</u>nable"
+#~ msgstr "<u>Р</u>азрешить"
+
+#~ msgid "Enable <u>A</u>uto Pan"
+#~ msgstr "Разрешить <u>А</u>вто Выбор Сцены"
+
+#~ msgid "Default Zoom level"
+#~ msgstr "Масштаб по Умолчанию"
+
+#~ msgid "<u>D</u>efault (+2)"
+#~ msgstr "<u>П</u>о умолчанию (+2)"
+
+#~ msgid "C<u>u</u>stom, Enter here:"
+#~ msgstr "По<u>л</u>ьзовательский, Введите здесь:"
+
+#~ msgid "You need to enter an integer value for the Zoom"
+#~ msgstr "Вы должны ввести целое число для Масштаба"
+
+#~ msgid "De<u>f</u>ault (1/3 of Map size)"
+#~ msgstr "По умолчанию (1/3 размера Карты)"
+
+#~ msgid "Cust<u>o</u>m, Enter here:"
+#~ msgstr "Поль<u>з</u>овательский, Введите здесь:"
+
+#~ msgid "Icon Position"
+#~ msgstr "Позиция Иконки"
+
+#~ msgid "<u>Z</u>oom level"
+#~ msgstr "уровень <u>У</u>величения"
+
+#~ msgid "You need to enter an integer value for the Zoom (positive or negative)"
+#~ msgstr "Вы должны ввести целое число для Масштаба (положительное или отрицательное)"
+
+#~ msgid "Window Map Type"
+#~ msgstr "Тип Окна Карты"
+
+#~ msgid "Same As Main Map"
+#~ msgstr "Так же как Главная Карта"
+
+#~ msgid "Force MAP"
+#~ msgstr "Переключить на MAP"
+
+#~ msgid "Force SATELLITE"
+#~ msgstr "Переключить на SATELLITE"
+
+#~ msgid "Force HYBRID"
+#~ msgstr "Переключить на HYBRID"
+
+#~ msgid "Window Shows icons/routes"
+#~ msgstr "Окно Отображает иконки/маршруты"
+
+#~ msgid "Move history:"
+#~ msgstr "История перемещений:"
+
+#~ msgid ""
+#~ "If the legend does not show up make sure the <u>Google Map Legend block</u> is added to "
+#~ "your sidebar"
+#~ msgstr ""
+#~ "Если описание не отображается, убедитесь, что <u>блок Описания Карт Google</u> добавлен "
+#~ "на вашу боковую панель"
+
+#~ msgid "Your First need to create some markers ->"
+#~ msgstr "Сначала необходимо создать несколько маркеров ->"
+
+#~ msgid "Delete Route $routes[0]"
+#~ msgstr "Удалить Маршрут $routes[0]"
+
+#~ msgid "No Color will default to purple"
+#~ msgstr "Не заданный цвет - по умолчанию будет пурпурный"
+
+#~ msgid "Default is 3 pixels"
+#~ msgstr "По Умолчанию - 3 пикселя"
+
+#~ msgid "Enter a float between 0 and 1 - 0 is transparent and 1 is not"
+#~ msgstr "Введите вещественное число между 0 и 1 - 0 это прозрачность, 1 - нет"
+
+#~ msgid "Please specify an integer from 0 to 19"
+#~ msgstr "Пожалуйста задайте целое от 0 до 19"
+
+#~ msgid "Click "
+#~ msgstr "Клик "
+
+#~ msgid "here"
+#~ msgstr "здесь"
+
+#~ msgid "This section permits the selection of different Control and position"
+#~ msgstr "Этот раздел позволит выбрать различные средства управления картой и позицию"
+
+#~ msgid "Custom Control positions are controled with the <i>contol.inc</i> file."
+#~ msgstr "Пользовательские позиции Управления определяются в файле <i>contol.inc</i>."
+
+#~ msgid ""
+#~ "You can customize the panning controls by creating your own.  Look in <i>/modules/map/"
+#~ "templates/controls</i> for examples."
+#~ msgstr ""
+#~ "Вы можете настроить управление сценой создав свою собственную. Посмотрите примеры в <i>/"
+#~ "modules/map/templates/controls</i>."
+
+#~ msgid "This section permits to change the aspect of the infowindow"
+#~ msgstr "Этот раздел позволяет изменить вид информ. окошка"
+
+#~ msgid "Please specify an integer from 0 to 17"
+#~ msgstr "Пожалуйста задайте целое от 0 до 17"
+
+#~ msgid "Please specify an integer"
+#~ msgstr "Пожалуйста задайте целое число"
+
+#~ msgid "control panel."
+#~ msgstr "панель управления."
+
+#~ msgid "1 - "
+#~ msgstr "1 - "
+
+#~ msgid "Go Back"
+#~ msgstr "Вернуться"
+
+#~ msgid "2 - Show me the "
+#~ msgstr "2 - Показать мне "
+
+#~ msgid "default map"
+#~ msgstr "карта по умолчанию"
+
+#~ msgid "Admin Panel"
+#~ msgstr "Администрирование"
+
+#~ msgid "or"
+#~ msgstr "или"
+
+#~ msgid "Check the wiki"
+#~ msgstr "Проверьте wiki"
+
+#~ msgid "Reminders"
+#~ msgstr "Напоминания"
+
+#, fuzzy
+#~ msgid "Google Map Picture Map Location"
+#~ msgstr "Расположение Карт Google"
+
+#~ msgid "Enable the GxMagnifier Features"
+#~ msgstr "Разрешить Функции GxMagnifier (Увеличителя)"
+
+#~ msgid "G<u>x</u>Magnifier Settings"
+#~ msgstr "Установки G<u>x</u>Magnifier"
+
+#~ msgid ""
+#~ "GPS coordinates were detected but do not seem to have a valid format, use at your own "
+#~ "risk or correct"
+#~ msgstr ""
+#~ "Координаты GPS были найдены, но имеют неверный формат, используйте на свой страх и риск "
+#~ "или исправьте"
+
+#~ msgid "Google Map Admin Page"
+#~ msgstr "Страница настроек Карт Google"
+
+#~ msgid "GxMagnifier Settings"
+#~ msgstr "Настройки GxMagnifier"
+
+#~ msgid "Magic Button"
+#~ msgstr "Волшебная Кнока"
